@@ -1,7 +1,8 @@
 # data-analysis-exercises
 Repo with my data analysis exercises with numpy, pandas, matplotlib.
 
-Datasets Used
+
+**Datasets Used**
 
 This repository includes data analysis exercises performed on the following datasets:
 
